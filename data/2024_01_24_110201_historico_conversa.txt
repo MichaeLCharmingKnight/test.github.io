@@ -1,0 +1,65 @@
+24/01/2024 11:02:01 Assistant: Olá! Como posso ajudá-lo hoje? Se você tiver alguma dúvida sobre cachorros, gatos ou os planos de venda da empresa Meu Pet Club, estou à disposição para fornecer as informações que precisa.
+24/01/2024 11:02:33 Assistant: O Plano De Boa é um dos planos oferecidos pela empresa Meu Pet Club e está focado na saúde do seu pet. Aqui estão os detalhes desse plano:
+
+- **Preço Mensal**: R$89,90
+- **Coberturas**:
+  - Consultas de urgência e emergência: Reembolso de R$150 por evento, ilimitado, com carência de 48 horas.
+  - Exames laboratoriais: Reembolso de R$110 por evento, ilimitado, com carência de 30 dias.
+  - Exames de imagem: Reembolso de R$150 por evento, limitado a 1 por ano, com carência de 120 dias.
+  - Atendimento ambulatorial: Reembolso de até R$1.500 por evento, ilimitado, com carência de 30 dias.
+  - Assistência funeral: Reembolso de até R$1.200 em caso de morte do pet, com carência de 30 dias.
+  - Telemedicina: Acesso ilimitado, com carência de 7 dias.
+  - Aplicação de vacinas: Reembolso de R$150 por evento, ilimitado, com carência de 180 dias.
+
+Esse plano oferece uma ampla cobertura para diferentes serviços, ajudando a garantir o bem-estar e a saúde do seu animal de estimação com um pagamento mensal fixo. Você gostaria de saber mais detalhes sobre outros planos ou sobre alguma cobertura específica deste plano?
+24/01/2024 11:11:25 Usuário: quais a condição gerais
+24/01/2024 11:11:25 Assistant: As Condições Gerais da Meu Pet Club estabelecem as regras e critérios para os serviços de assistência médica e hospitalar para gatos e cachorros oferecidos pela empresa. Aqui estão alguns pontos importantes das condições gerais:
+
+1. **Definições do Produto**:
+   - A Meu Pet Club oferece serviços de assistência médica e hospitalar para complicações de saúde resultantes de acidentes ou enfermidades.
+   - As condições gerais e particulares de cada plano estão disponíveis nas condições gerais e no certificado do plano, respectivamente.
+
+2. **Objeto do Contrato**:
+   - O contrato cobre os custos dos serviços veterinários em caso de problemas emergenciais de saúde decorrentes de enfermidades e acidentes, conforme especificações do plano escolhido.
+
+3. **Condições de Admissão**:
+   - Aceita-se cães ou gatos domésticos que residam com o tutor e tenham peso máximo de 80 kg e idade máxima de 7 anos e 11 meses (exceto para o plano específico para pets mais velhos).
+   - Não são aceitos animais silvestres, não domesticados ou destinados a competições, entre outros.
+   - O pet deve estar com as vacinas em dia.
+
+4. **Plano e Vigência**:
+   - Os planos têm vigência de um ano, renováveis por períodos iguais.
+
+5. **Solicitação de Reembolso e Acionamento dos Serviços**:
+   - Para a maioria dos serviços, a solicitação de utilização ou expectativa de reembolso deve ser feita através do login do cliente no site oficial.
+
+Cabe ressaltar que todas as informações fornecidas na contratação devem ser verdadeiras e a relação contratual é baseada na boa-fé. Os planos são individuais e intransferíveis, e todos os custos que excedem o limite contratado são de responsabilidade do proprietário do pet.
+
+Esses são apenas alguns dos pontos principais das Condições Gerais. Se você precisar de mais informações ou esclarecimentos sobre pontos específicos, estou à disposição para ajudar.
+24/01/2024 11:12:54 Usuário: qual lado ruim do planos
+24/01/2024 11:12:54 Assistant: Os planos oferecidos pela Meu Pet Club possuem suas vantagens, mas também existem algumas exclusões gerais e limitações que os clientes devem estar cientes. Aqui estão alguns dos aspectos que poderiam ser considerados "lados ruins" dos planos:
+
+1. **Exclusões gerais** que não são cobertas pelos planos, tais como:
+   - Tratamentos odontológicos ou tartarectomia, exceto para planos que possuem essa cobertura específica.
+   - Procedimentos realizados por veterinário sem registro CRMV.
+   - Uso de medicamentos sem registro na ANVISA.
+   - Tratamentos experimentais e procedimentos estéticos.
+   - Tratamentos de transtornos comportamentais e de emagrecimento.
+   - Cuidados relativos à obstetrícia, incluindo parto normal, pré-natal, pós-parto, entre outros.
+   - Tratamento de doenças crônicas, preexistentes ou congênitas identificadas antes da assinatura do contrato.
+   - Acidentes ou doenças intencionais causadas pelo cliente ou pessoas que vivem na mesma residência.
+
+2. **Obrigações do contratante**:
+   - Pagamento pontual da mensalidade conforme o estabelecido no certificado, sob pena de suspensão ou cancelamento do plano contratado.
+   - O plano contratado não pode ser comercializado ou cedido a terceiros.
+   - O contratante é responsável por manter suas informações atualizadas para evitar problemas com o pagamento e o uso dos serviços.
+
+3. **Identificação do animal assistido**:
+   - A identificação do pet ocorre no momento do contrato e é vinculada exclusivamente ao animal informado.
+   - O uso dos serviços para outro animal não identificado no contrato implica perda dos direitos de reembolso ou autorização dos procedimentos.
+
+4. **Limites máximos de cobertura e atendimentos**:
+   - Cada plano tem um limite anual máximo de cobertura para cada serviço.
+   - Todos os procedimentos de um mesmo evento são considerados como uma única reclamação.
+
+Estas são algumas das restrições e obrigações estipuladas nas condições gerais que podem ser vistas como desvantagens dos planos. Além disso, certas condições de saúde preexistentes ou problemas específicos podem não ser cobertos, o que é importante ter em mente ao escolher um plano para seu pet. Se precisar de mais detalhes ou tiver dúvidas específicas, não hesite em perguntar.

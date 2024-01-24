@@ -1,0 +1,14 @@
+24/01/2024 11:37:13 Usuário: 4+4,
+24/01/2024 11:37:13 Assistant: A pergunta está fora do escopo atual, pois estamos aqui para discutir informações sobre cachorros, gatos e os planos de venda da empresa Meu Pet Club. Se você tiver dúvidas relacionadas a esses temas, estarei feliz em ajudar!
+24/01/2024 11:37:32 Usuário: plano de boa e oque isso
+24/01/2024 11:37:32 Assistant: O "Plano De Boa" é um dos planos oferecidos pela empresa Meu Pet Club e custa R$ 89,90 por mês. Este plano inclui as seguintes coberturas com os seguintes valores de reembolso por evento:
+
+- Consultas de urgência e emergência: R$150 por evento (com carência de 48 horas, eventos ilimitados)
+- Exames laboratoriais: R$110 por evento (com carência de 30 dias, eventos ilimitados)
+- Exames de imagem: R$150 por evento (com carência de 120 dias, limitado a 1 por ano)
+- Atendimento ambulatorial: R$1.500 por evento (com carência de 30 dias, eventos ilimitados)
+- Assistência funeral: R$1200 por evento (com carência de 30 dias, em caso de morte)
+- Telemedicina: Sem custo definido por evento (com carência de 7 dias, eventos ilimitados)
+- Aplicação de vacinas: R$150 por evento (com carência de 180 dias, eventos ilimitados)
+
+Este plano foi projetado para oferecer uma ampla gama de cuidados essenciais para a saúde de seu pet, com uma abordagem focada em urgência, emergência e procedimentos ambulatoriais.
